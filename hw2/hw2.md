@@ -7,7 +7,7 @@ brew install mongodb-community@6.0
 ```
 Далее будем работать в GUI MongoDB Compass. Подлючимся к локальному хосту.
 
-![](/pic1.png)
+![](pic1.png)
 
 ## **Создание базы данных**
 Создадим базу данных 'sbt' и заполним ее данными по ресторанам, предложенными на сайте https://www.digitalocean.com/community/tutorials/how-to-import-and-export-a-mongodb-database-on-ubuntu-20-04-ru. Использовалась команда 
