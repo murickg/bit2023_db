@@ -1,9 +1,9 @@
 #  Homework #3. Redis
 ## Run Redis/Redis Cluster
 Развернем Redis в Docker:
-![redis_docker](/pic1.png "Run Redis on Docker")
+![](pic1.png)
 Разворачивание RedisCluster:
-![redis_cluster](/pic2.png 'Create a Radis Cluster')
+![](pic2.png)
 Если мы не хотим создавать Redis Cluster, настраивая и запуская отдельные экземпляры вручную, как показано выше, существует гораздо более простая система (но мы не узнаем столько же деталей работы). 
 ```bash
 create-cluster start
