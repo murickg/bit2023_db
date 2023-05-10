@@ -1,5 +1,5 @@
 # Homework #4. Solr
-![](/solr_logo.png)
+![](solr_logo.png)
 ## Table of contents 
 - [Homework #4. Solr](#homework-4-solr)
   - [Table of contents](#table-of-contents)
